@@ -11,4 +11,4 @@ Practice SQL aggregate functions (`SUM`, `COUNT`, `AVG`, `MAX` ,`MIN`) and group
 - Filtering groups using HAVING
 
 ## Tools
-- MSSQL SERVER STUDIO
+- MSSQL SERVER MANAGEMENT STUDIO
