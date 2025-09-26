@@ -1,7 +1,7 @@
 # Task 4: Aggregate Functions and Grouping
 
 ## Objective
-Practice SQL aggregate functions (`SUM`, `COUNT`, `AVG`, `MAX`) and grouping (`GROUP BY`, `HAVING`).
+Practice SQL aggregate functions (`SUM`, `COUNT`, `AVG`, `MAX` ,`MIN`) and grouping (`GROUP BY`, `HAVING`).
 
 ## Queries Included
 - Total salary per department
